@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/styles">
+        <file>btn_style1.qss</file>
+        <file>light_mode.qss</file>
+        <file>dark_mode.qss</file>
+    </qresource>
+    <qresource prefix="/new/pics">
+        <file>dark.png</file>
+        <file>light.png</file>
+        <file>menupic.png</file>
+        <file>menupic(rot).png</file>
+        <file>helppic.png</file>
+        <file>settingpic.png</file>
+        <file>clockpic.png</file>
+        <file>directionspic.png</file>
+        <file>exitpic.png</file>
+        <file>listpic.png</file>
+        <file>home.png</file>
+    </qresource>
+</RCC>
